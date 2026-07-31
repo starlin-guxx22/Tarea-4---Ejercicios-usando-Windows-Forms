@@ -1,2 +1,100 @@
-# Tarea-4---Ejercicios-usando-Windows-Forms
- Este repositorio reúne cuatro proyectos que desarrollé en C# con Windows Forms para practicar los fundamentos de la programación. Incluye un conversor de unidades, un control de asistencia, un menú de colmado y un registro de clientes. En ellos se trabajan controles, eventos, validación de datos, estructuras condicionales y operaciones básicas.
+# 🖥️ Proyectos Básicos en C# - Windows Forms
+
+¡Bienvenido! 👋
+
+Este repositorio contiene una colección de proyectos desarrollados en **C# con Windows Forms** como parte de mi proceso de aprendizaje. Cada ejercicio está diseñado para reforzar conceptos fundamentales de programación, el uso de controles gráficos y el desarrollo de aplicaciones de escritorio.
+
+## 📂 Proyectos incluidos
+
+### 🔄 1. Conversor de Unidades
+
+Aplicación que permite convertir diferentes unidades de medida de forma rápida y sencilla.
+
+**Características:**
+
+* Ingreso de datos mediante `TextBox`.
+* Selección del tipo de conversión con `ComboBox`.
+* Cálculo automático al presionar un `Button`.
+* Visualización del resultado en un `Label`.
+
+**Conceptos aplicados:**
+
+* Operaciones matemáticas.
+* Estructuras condicionales.
+* Manejo de eventos.
+* Controles básicos de Windows Forms.
+
+---
+
+### 📋 2. Control de Asistencia
+
+Sistema sencillo para registrar la asistencia de estudiantes.
+
+**Características:**
+
+* Selección del estudiante desde un `ListBox`.
+* Registro de asistencia utilizando un `CheckBox`.
+* Generación de un resumen al confirmar la información.
+
+**Conceptos aplicados:**
+
+* Manejo de listas.
+* Condicionales.
+* Eventos de botones.
+* Interacción entre controles.
+
+---
+
+### 🛒 3. Menú del Colmado
+
+Aplicación que calcula el total de una compra según el producto, la cantidad y el método de pago seleccionado.
+
+**Características:**
+
+* Selección de productos mediante `ComboBox`.
+* Cantidad ingresada en `TextBox`.
+* Método de pago con `RadioButton`.
+* Cálculo automático del total.
+
+**Conceptos aplicados:**
+
+* Operaciones aritméticas.
+* Validación de datos.
+* Uso combinado de diferentes controles.
+* Lógica de negocio básica.
+
+---
+
+### 👥 4. Registro de Clientes
+
+Sistema para registrar clientes a través de un formulario.
+
+**Características:**
+
+* Captura de información mediante varios `TextBox`.
+* Validación de los datos ingresados.
+* Almacenamiento de los registros en un `ListBox`.
+
+**Conceptos aplicados:**
+
+* Validación de entradas.
+* Manejo de eventos.
+* Almacenamiento temporal de datos.
+* Organización de formularios.
+
+---
+
+## 🛠️ Tecnologías utilizadas
+
+* C#
+* Windows Forms
+* .NET Framework
+* Visual Studio
+
+## 🎯 Objetivo
+
+El propósito de estos proyectos es fortalecer los conocimientos básicos de programación orientada a objetos y el desarrollo de interfaces gráficas con Windows Forms, aplicando la lógica de programación en ejercicios prácticos.
+
+## 📌 Nota
+
+Estos proyectos fueron desarrollados con fines educativos y representan parte de mi proceso de aprendizaje en el desarrollo de aplicaciones de escritorio con C#.
