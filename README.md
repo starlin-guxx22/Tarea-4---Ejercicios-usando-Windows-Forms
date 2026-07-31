@@ -2,6 +2,12 @@
 
 ¡Bienvenido! 👋
 
+
+Desarrolladores: 
+Loandian R. Travieso Mota (2026-0672)
+Milangel Aponte Santana (2026-0225)
+Starlin J. Guzmán Sabino (2026-0311)
+
 Este repositorio contiene una colección de proyectos desarrollados en **C# con Windows Forms** como parte de mi proceso de aprendizaje. Cada ejercicio está diseñado para reforzar conceptos fundamentales de programación, el uso de controles gráficos y el desarrollo de aplicaciones de escritorio.
 
 ## 📂 Proyectos incluidos
