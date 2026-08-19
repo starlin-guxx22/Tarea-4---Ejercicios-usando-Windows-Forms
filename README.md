@@ -77,6 +77,12 @@ Sistema sencillo para registrar la asistencia de estudiantes.
 * Eventos de botones.
 * Interacción entre controles.
 
+
+   CAPTURA DEL PROGRANMA EN EJECUCIÓN:
+
+<img width="1392" height="802" alt="image" src="https://github.com/user-attachments/assets/e6b64cbd-66d5-43cd-9437-e3f1a3367683" />
+
+
 ---
 
 ### 🛒 3. Menú del Colmado
