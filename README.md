@@ -37,12 +37,26 @@ Aplicación que permite convertir diferentes unidades de medida de forma rápida
   CAPTURA DEL PROGRANMA EN EJECUCIÓN:
   
 CONVIRTIENDO GRADOS - C/F
+
+
+
 <img width="684" height="510" alt="Captura de pantalla 2026-08-18 202236" src="https://github.com/user-attachments/assets/651e9f72-6215-410b-8144-bb06e637d064" />
+
+
+
+
 
 
 CONVIRTIENDO DISTANCIAS - KM/MILLA
 
+
+
+
+
 <img width="695" height="495" alt="Captura de pantalla 2026-08-18 202258" src="https://github.com/user-attachments/assets/de41dbca-581e-407a-b177-6fa05da8cf83" />
+
+
+
 
 ---
 
