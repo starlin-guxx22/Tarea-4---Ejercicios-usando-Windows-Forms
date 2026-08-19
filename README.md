@@ -72,6 +72,10 @@ Aplicación que calcula el total de una compra según el producto, la cantidad y
 * Uso combinado de diferentes controles.
 * Lógica de negocio básica.
 
+* CAPTURA DEL PROGRANMA EN EJECUCIÓN:
+* <img width="682" height="668" alt="image" src="https://github.com/user-attachments/assets/5d5e07f6-d0d1-413b-ba69-cc910a1eece3" />
+
+
 ---
 
 ### 👥 4. Registro de Clientes
