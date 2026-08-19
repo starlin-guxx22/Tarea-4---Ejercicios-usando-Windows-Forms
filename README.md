@@ -122,6 +122,15 @@ Sistema para registrar clientes a través de un formulario.
 * Almacenamiento temporal de datos.
 * Organización de formularios.
 
+
+
+ CAPTURA DEL PROGRANMA EN EJECUCIÓN:
+ 
+
+<img width="1195" height="622" alt="WhatsApp Image 2026-08-18 at 20 31 12" src="https://github.com/user-attachments/assets/493eac7c-dee9-4055-8837-c74256e945ba" />
+
+
+
 ---
 
 ## 🛠️ Tecnologías utilizadas
